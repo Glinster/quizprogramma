@@ -1,0 +1,99 @@
+{
+    "quizThema1": [
+        {
+            "vraag": "1: Welke van deze vruchten is het nationale symbool van Nieuw-Zeeland?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Appel",
+            "C": "Mango",
+            "D": "Papaja",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "2: Welke vrucht heeft een stekelige schil en staat bekend om zijn sterke geur?",
+            "afbeelding": "",
+            "A": "Durian",
+            "B": "Ananas",
+            "C": "Granaatappel",
+            "D": "Limoen",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "3: Welke vrucht groeit aan een wijnstok?",
+            "afbeelding": "",
+            "A": "Druif",
+            "B": "Peer",
+            "C": "Banaan",
+            "D": "Mango",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "4: Welke van deze vruchten heeft een pit in het midden?",
+            "afbeelding": "",
+            "A": "Perzik",
+            "B": "Aardbei",
+            "C": "Framboos",
+            "D": "Blauwe bes",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "5: Welke vrucht wordt vaak gebruikt in guacamole?",
+            "afbeelding": "",
+            "A": "Sinaasappel",
+            "B": "Citroen",
+            "C": "Avocado",
+            "D": "Meloen",
+            "JuisteAntwoord": "C"
+        },
+        {
+            "vraag": "6: Welke van deze vruchten wordt vaak als \"zomerfruit\" beschouwd?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Watermeloen",
+            "C": "Mango",
+            "D": "Vijg",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "7: Welke vrucht wordt vaak geassocieerd met Hawa\u00ef?",
+            "afbeelding": "Kokosnoot",
+            "A": "Hi",
+            "B": "Appel",
+            "C": "Papaja",
+            "D": "Ananas",
+            "JuisteAntwoord": "D"
+        },
+        {
+            "vraag": "8: Welke vrucht staat bekend om zijn rood-zwart uiterlijk en zoete smaak?",
+            "afbeelding": "",
+            "A": "Framboos",
+            "B": "Kers",
+            "C": "Vijg",
+            "D": "Appel",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "9: Welke vrucht wordt in veel tropische landen gebruikt om bananenbrood te maken?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Banaan",
+            "C": "Passievrucht",
+            "D": "Perzik",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "10: Welke vrucht wordt vaak gedroogd gegeten als rozijnen?",
+            "afbeelding": "",
+            "A": "Blauwe bes",
+            "B": "Aardbei",
+            "C": "Druif",
+            "D": "Framboos",
+            "JuisteAntwoord": "C"
+        }
+    ]
+}
+
+
+
+// let vraagA = obj.name;
+// let personAge = obj.age;
