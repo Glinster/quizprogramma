@@ -1,0 +1,286 @@
+{
+    "quizThema1": [
+        {
+            "vraag": "Welke van deze vruchten is het nationale symbool van Nieuw-Zeeland?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Appel",
+            "C": "Mango",
+            "D": "Papaja",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke vrucht heeft een stekelige schil en staat bekend om zijn sterke geur?",
+            "afbeelding": "",
+            "A": "Durian",
+            "B": "Ananas",
+            "C": "Granaatappel",
+            "D": "Limoen",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke vrucht groeit aan een wijnstok?",
+            "afbeelding": "",
+            "A": "Druif",
+            "B": "Peer",
+            "C": "Banaan",
+            "D": "Mango",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke van deze vruchten heeft een pit in het midden?",
+            "afbeelding": "",
+            "A": "Perzik",
+            "B": "Aardbei",
+            "C": "Framboos",
+            "D": "Blauwe bes",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke vrucht wordt vaak gebruikt in guacamole?",
+            "afbeelding": "",
+            "A": "Sinaasappel",
+            "B": "Citroen",
+            "C": "Avocado",
+            "D": "Meloen",
+            "JuisteAntwoord": "C"
+        },
+        {
+            "vraag": "Welke van deze vruchten wordt vaak als \"zomerfruit\" beschouwd?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Watermeloen",
+            "C": "Mango",
+            "D": "Vijg",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke vrucht wordt vaak geassocieerd met Hawa\u00ef?",
+            "afbeelding": "Kokosnoot",
+            "A": "Hi",
+            "B": "Appel",
+            "C": "Papaja",
+            "D": "Ananas",
+            "JuisteAntwoord": "D"
+        },
+        {
+            "vraag": "Welke vrucht staat bekend om zijn rood-zwart uiterlijk en zoete smaak?",
+            "afbeelding": "",
+            "A": "Framboos",
+            "B": "Kers",
+            "C": "Vijg",
+            "D": "Appel",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke vrucht wordt in veel tropische landen gebruikt om bananenbrood te maken?",
+            "afbeelding": "",
+            "A": "Kiwi",
+            "B": "Banaan",
+            "C": "Passievrucht",
+            "D": "Perzik",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke vrucht wordt vaak gedroogd gegeten als rozijnen?",
+            "afbeelding": "",
+            "A": "Blauwe bes",
+            "B": "Aardbei",
+            "C": "Druif",
+            "D": "Framboos",
+            "JuisteAntwoord": "C"
+        }
+    ],
+
+
+
+
+
+    "quizThema2": [
+        {
+            "vraag": "Wat is de hoofdstad van Kazachstan?",
+            "afbeelding": "",
+            "A": "Astana",
+            "B": "Almaty",
+            "C": "Tashkent",
+            "D": "Bishkek",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Bhutan?",
+            "afbeelding": "",
+            "A": "Thimphu",
+            "B": "Kathmandu",
+            "C": "Dhaka",
+            "D": "Paro",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke stad is de hoofdstad van Montenegro?",
+            "afbeelding": "",
+            "A": "Podgorica",
+            "B": "Sarajevo",
+            "C": "Belgrado",
+            "D": "Skopje",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Suriname?",
+            "afbeelding": "",
+            "A": "Paramaribo",
+            "B": "Cayenne",
+            "C": "Georgetown",
+            "D": "Port of Spain",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Zuid-Afrika?",
+            "afbeelding": "",
+            "A": "Johannesburg",
+            "B": "Pretoria",
+            "C": "Kaapstad",
+            "D": "Bloemfontein",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke stad is de hoofdstad van Myanmar?",
+            "afbeelding": "",
+            "A": "Yangon",
+            "B": "Naypyidaw",
+            "C": "Mandalay",
+            "D": "Dhaka",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Kiribati?",
+            "afbeelding": "",
+            "A": "Tarawa",
+            "B": "Funafuti",
+            "C": "Apia",
+            "D": "Nukuʻalofa",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Slovenië?",
+            "afbeelding": "",
+            "A": "Ljubljana",
+            "B": "Zagreb",
+            "C": "Bratislava",
+            "D": "Wenen",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Brunei?",
+            "afbeelding": "",
+            "A": "Kuala Lumpur",
+            "B": "Bandar Seri Begawan",
+            "C": "Manila",
+            "D": "Jakarta",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Madagascar?",
+            "afbeelding": "",
+            "A": "Maputo",
+            "B": "Antananarivo",
+            "C": "Port Louis",
+            "D": "Harare",
+            "JuisteAntwoord": "B"
+        }
+    ],
+
+
+    "quizThema3": [
+        {
+            "vraag": "Welke emotie wordt vaak geassocieerd met een snellere hartslag en adrenalineproductie?",
+            "afbeelding": "",
+            "A": "Blijdschap",
+            "B": "Angst",
+            "C": "Verdriet",
+            "D": "Verbazing",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke emotie wordt vaak geassocieerd met de kleur rood en een verhoogde bloeddruk?",
+            "afbeelding": "",
+            "A": "Woede",
+            "B": "Jaloezie",
+            "C": "Liefde",
+            "D": "Verdriet",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is een complexe emotie die vaak ontstaat door een combinatie van blijdschap, verbazing en bewondering?",
+            "afbeelding": "",
+            "A": "Ontzag",
+            "B": "Woede",
+            "C": "Vreugde",
+            "D": "Wantrouwen",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke emotie wordt gekenmerkt door gevoelens van waardering en erkentelijkheid?",
+            "afbeelding": "",
+            "A": "Liefde",
+            "B": "Dankbaarheid",
+            "C": "Blijdschap",
+            "D": "Vrede",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Wat is de emotie die vaak optreedt wanneer iemand spijt heeft van zijn acties?",
+            "afbeelding": "",
+            "A": "Schuld",
+            "B": "Verdriet",
+            "C": "Jaloezie",
+            "D": "Angst",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke emotie wordt vaak ervaren wanneer iemand iets belangrijks heeft verloren?",
+            "afbeelding": "",
+            "A": "Angst",
+            "B": "Verdriet",
+            "C": "Blijdschap",
+            "D": "Woede",
+            "JuisteAntwoord": "B"
+        },
+        {
+            "vraag": "Welke emotie wordt vaak geassocieerd met succes en prestaties?",
+            "afbeelding": "",
+            "A": "Trots",
+            "B": "Blijdschap",
+            "C": "Ontzag",
+            "D": "Jaloezie",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is een negatieve emotie die vaak optreedt als gevolg van onzekerheid of twijfel aan anderen?",
+            "afbeelding": "",
+            "A": "Wantrouwen",
+            "B": "Angst",
+            "C": "Boosheid",
+            "D": "Verdriet",
+            "JuisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke emotie wordt vaak ervaren wanneer je iets grappigs hoort of ziet?",
+            "afbeelding": "",
+            "A": "Blijdschap",
+            "B": "Verbazing",
+            "C": "Lachlust",
+            "D": "Ontzag",
+            "JuisteAntwoord": "C"
+        },
+        {
+            "vraag": "Wat is de emotie die vaak optreedt als iemand zich ongemakkelijk voelt in sociale situaties?",
+            "afbeelding": "",
+            "A": "Schaamte",
+            "B": "Schuld",
+            "C": "Verdriet",
+            "D": "Angst",
+            "JuisteAntwoord": "A"
+        }
+    ]
+}
+

@@ -1,0 +1,456 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    min-height: 100vh;
+
+
+}
+
+.pagina1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.inhoudIndex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    gap: 20px; 
+
+}
+
+.headerIndex{
+    font-size: 60px;
+    margin-top: 30px;
+  
+
+   
+
+
+}
+
+.mainIndex{
+    font-size: 18px;
+    max-width: 400px; 
+    
+   
+
+}
+
+.footerIndex{
+    min-height: 60vh ;
+    max-height: 60vh;
+}
+
+.ulFooterIndex{
+    min-height: 60vh ;
+    max-height: 60vh;
+    gap: 25px;
+    font-size: 30px;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+
+
+}
+
+.vraagNaam{
+   
+}
+.listIndexPlaceholder{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.placeholder{
+    min-width: 351.2px;
+    min-height: 50px;
+    border-radius: 8px;
+    font-size: 18px;
+    padding-left: 10px;
+
+}
+
+
+.listIndexButton{
+    display: flex;
+    justify-content: center;
+}
+
+
+.indexButton{
+    min-width: 300px;
+    min-height: 65px;
+    border-radius: 8px;
+    background-color: #4A5FD9;
+    color: white;
+    font-size: 25px;
+    border: none;
+    
+}
+
+.indexButton:hover{
+    cursor: pointer;
+}
+
+.pagina2{
+    display: none;
+    min-height: 100vh;
+    min-width: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+
+}
+
+.headerThemascherm{
+    padding-top: 40px;
+    padding-left: 40px;
+    min-height: 10vh;
+}
+
+.sectionTeamnaam:hover{
+    cursor: pointer;
+}
+
+
+.sectionThemaschermVraag{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    text-align: center; 
+}
+
+.themaschermVraag{
+    font-size: 60px;
+    min-height: 137.6px;
+    max-height: 137.6px;
+
+}
+
+.sectionThemas{
+    min-height: 700px;
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+ 
+   
+
+
+
+}
+
+.themas{
+    list-style: none;
+    display: flex; 
+    gap: 110px;
+    font-size: 200px;
+   
+}
+
+.buttonThema1,.buttonThema2, .buttonThema3{
+    
+
+}
+
+.thema1,.thema2,.thema3{
+    min-width: 250px;
+    min-height:250px;
+    border-radius: 200px;
+    background-color: #4A5FD9;
+    color: white;
+    font-size: 25px;
+    border: none;
+    
+}
+
+.thema1:hover,.thema2:hover,.thema3:hover{
+    cursor: pointer;
+} 
+
+.pagina3{
+    display: none;
+    /* display: flex; */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sectionVraag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    font-size: 35px;
+    min-height: 15vh;
+    padding-top: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
+    
+
+
+}
+
+
+.sectionVraagscherm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    min-height: 50vh;
+
+}
+
+
+.listVraagscherm{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+    min-height: 55vh;
+   
+}
+
+.teamnnaam2{
+    min-width: 33vh;
+}
+
+.afbeelding{
+    min-width: 34vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.fotoAfbeelding{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.liTimer{
+    min-width: 33vh;
+
+}
+
+.timer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sectionVraagscherm1{
+    min-height: 30vh;
+
+
+}
+
+
+.timer{
+min-width: 150px;
+min-height:150px;
+border-radius: 200px;
+background-color: red;
+color: white;
+font-size: 25px;
+border: none;
+}
+
+.timer:hover{
+    cursor: pointer;
+
+}
+
+.sectionVraagscherm1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.listAntwoordAB{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    padding-bottom: 10px;
+}
+
+.buttonA, .buttonB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 350px;
+    min-height: 70px;
+    border-radius: 8px;
+    background-color: #4A5FD9;
+    color: white;
+    font-size: 25px;
+    border: none;
+
+}
+
+.buttonA:hover, .buttonB:hover{
+    cursor: pointer;
+
+}
+
+.listAntwoordCD{
+    list-style: none;
+    display: flex;
+    gap: 60px;
+   
+}
+
+.buttonC, .buttonD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 350px;
+    min-height: 70px;
+    border-radius: 8px;
+    background-color:#4A5FD9;
+    color: white;
+    font-size: 25px;
+    border: none;
+    
+
+}
+
+.buttonC:hover, .buttonD:hover{
+    cursor: pointer;
+
+}
+
+.pagina4{
+    min-height: 100vh;
+    min-width: 100vh;
+    overflow: hidden;
+  
+}
+
+.headerEindscherm{
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: 90px;
+    
+    
+
+}
+
+.sectionEindscherm{}
+
+.lijstEindscherm{
+    display: flex;
+    flex-direction: column; 
+    margin-left: 90px;
+     
+
+}
+.scoreboard{ 
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+   
+}
+
+.spelerPunten1{
+    font-size: 40px;
+}
+
+.spelerPunten2{
+     font-size: 40px;}
+
+.spelerPunten3{
+    font-size: 40px;
+}
+
+.containerButton{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+                
+.buttonEindscherm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 350px;
+    min-height: 70px;
+    border-radius: 8px;
+    background-color:#4A5FD9;
+    color: white;
+    font-size: 25px;
+    border: none;
+   
+}
+
+.buttonEindscherm:hover{
+    cursor: pointer;
+}
+
+.scoreEindscherm{
+    font-size: 40px;
+    
+}
+
+.scoreEindschermLijst {
+    display: flex;
+    flex-direction: column; 
+    margin-top: 30px;
+    gap: 20px;
+   
+    
+}
+
+.boxScore1{
+    list-style: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 90px; 
+    margin-left: 90px;
+
+}
+
+.boxScore {
+    list-style: none;
+    border: 2px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-bottom: 5px;
+    margin-right: 90px; 
+    margin-left: 70px  
+   
+}
+
+.boxScoreTekst{
+    margin-left: 20px  
+}
+
+
+
+
+
+
