@@ -1,0 +1,90 @@
+{
+    "quizThema1": [
+        {
+            "vraag": "Welke van deze vruchten is het nationale symbool van Nieuw-Zeeland?",
+            "afbeelding": ["/afbeeldingenjson/pexels-arina-krasnikova-6317449.jpg"],
+            "A": "Kiwi",
+            "B": "Appel",
+            "C": "Mango",
+            "D": "Papaja",
+            "juisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke vrucht heeft een stekelige schil en staat bekend om zijn sterke geur?",
+            "afbeelding": ["afbeeldingenjson/pexels-babydov-7788190.jpg"],
+            "A": "Durian",
+            "B": "Ananas",
+            "C": "Granaatappel",
+            "D": "Limoen",
+            "juisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke vrucht groeit aan een wijnstok?",
+            "afbeelding": ["afbeeldingenjson/pexels-george-dolgikh-551816-1666061.jpg"],
+            "A": "Druif",
+            "B": "Peer",
+            "C": "Banaan",
+            "D": "Mango",
+            "juisteAntwoord": "A"
+        }
+
+    ],
+    "quizThema2": [
+        {
+            "vraag": "Wat is de hoofdstad van Kazachstan?",
+            "afbeelding": ["afbeeldingenjson/pexels-gokudo-11499949.jpg"],
+            "A": "Astana",
+            "B": "Almaty",
+            "C": "Tashkent",
+            "D": "Bishkek",
+            "juisteAntwoord": "A"
+        },
+        {
+            "vraag": "Wat is de hoofdstad van Bhutan?",
+            "afbeelding": ["afbeeldingenjson/pexels-lara-jameson-8828681.jpg"],
+            "A": "Thimphu",
+            "B": "Kathmandu",
+            "C": "Dhaka",
+            "D": "Paro",
+            "juisteAntwoord": "A"
+        },
+        {
+            "vraag": "Welke stad is de hoofdstad van Montenegro?",
+            "afbeelding": ["afbeeldingenjson/pexels-endervatan-2932540.jpg"],
+            "A": "Podgorica",
+            "B": "Sarajevo",
+            "C": "Belgrado",
+            "D": "Skopje",
+            "juisteAntwoord": "A"
+        }
+    ],
+    "quizThema3": [
+        {
+            "vraag": "Welke emotie wordt vaak geassocieerd met een snellere hartslag en adrenalineproductie?",
+            "afbeelding": ["afbeeldingenjson/pexels-pixabay-415779.jpg"],
+            "A": "Verdriet",
+            "B": "Blijdschap",
+            "C": "Angst",
+            "D": "Verbazing",
+            "juisteAntwoord": "C"
+        },
+        {
+            "vraag": "Welke emotie wordt vaak geassocieerd met de kleur rood en een verhoogde bloeddruk?",
+            "afbeelding": ["afbeeldingenjson/pexels-asphotograpy-1001897.jpg"],
+            "A": "Liefde",
+            "B": "Jaloezie",
+            "C": "Woede",
+            "D": "Verdriet",
+            "juisteAntwoord": "C"
+        },
+        {
+            "vraag": "Wat is een complexe emotie die vaak ontstaat door een combinatie van blijdschap, verbazing en bewondering?",
+            "afbeelding": ["afbeeldingenjson/pexels-asphotograpy-1001897.jpg"],
+            "A": "Vreugde",
+            "B": "Woede",
+            "C": "Ontzag",
+            "D": "Wantrouwen",
+            "juisteAntwoord": "C"
+        }
+    ]
+}

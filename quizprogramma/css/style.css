@@ -26,7 +26,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center; 
-    gap: 20px; 
+    gap: 30px; 
 
 }
 
@@ -41,7 +41,7 @@ body {
 }
 
 .mainIndex{
-    font-size: 18px;
+    font-size: 25px;
     max-width: 400px; 
     
    
@@ -67,9 +67,7 @@ body {
 
 }
 
-.vraagNaam{
-   
-}
+
 .listIndexPlaceholder{
     display: flex;
     justify-content: center;
@@ -132,7 +130,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 70px;
+    font-size: 60px;
     text-align: center; 
 }
 
@@ -163,14 +161,10 @@ body {
    
 }
 
-.buttonThema1,.buttonThema2, .buttonThema3{
-    
-
-}
 
 .thema1,.thema2,.thema3{
-    min-width: 250px;
-    min-height:250px;
+    min-width: 300px;
+    min-height:300px;
     border-radius: 200px;
     background-color: #4A5FD9;
     color: white;
@@ -223,7 +217,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 150px;
+    gap: 180px;
     min-height: 55vh;
    
 }
@@ -266,12 +260,12 @@ body {
 
 
 .timer{
-min-width: 150px;
-min-height:150px;
+min-width: 200px;
+min-height:200px;
 border-radius: 200px;
 background-color: red;
 color: white;
-font-size: 25px;
+font-size: 30px;
 border: none;
 }
 
@@ -364,6 +358,7 @@ border: none;
     display: flex;
     flex-direction: column; 
     margin-left: 90px;
+    list-style: none;
      
 
 }
@@ -449,8 +444,387 @@ border: none;
     margin-left: 20px  
 }
 
+@media screen and (max-width: 800px) {
 
+    
+    .pagina1 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; 
+    }
+    
+    
+    .headerIndex{
+        font-size:20px;
+        margin-top: 15px;
+      
+    
+       
+    
+    
+    }
+    
+    .mainIndex{
+        font-size: 20px;
+        max-width: 250px; 
+        
+       
+    
+    }
+    
+    
+    .ulFooterIndex{
+        min-height: 30vh ;
+        max-height: 0vh;
+        gap: 25px;
+        font-size: 20px;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+       
+    
+    
+    }
+    
 
+    .listIndexPlaceholder{
+        display: flex;
+        justify-content: center;
+        
+    }
+    
+    .placeholder{
+        min-width: 20px;
+        min-height: 30px;
+        border-radius: 8px;
+        font-size: 14px;
+        padding-left: 10px;
+    
+    }
+    
+    .indexButton{
+        min-width: 150px;
+        min-height: 45px;
+        border-radius: 8px;
+        background-color: #4A5FD9;
+        color: white;
+        font-size: 20px;
+        border: none;
+        
+    }
+    
+    
+    
+    .pagina2{
+        display: none;
+        min-height: 100vh;
+        min-width: 100vh;
+        max-height: 100vh;
+        overflow: hidden;
+    
+    }
+    
+    
+    .themaschermVraag{
+        font-size:25px;
+        min-height: 100px;
+        max-height: 100px;
+    
+    }
+    
+    .sectionThemas{
+        min-height: 400px;
+        min-width: 100vh;
+        display: flex;
+        justify-content: center;
+     
+       
+    
+    
+    
+    }
+    
+    .themas{
+        list-style: none;
+        display: flex; 
+        gap: 35px;
+        font-size: 8px;
+       
+    }
 
+    
+    .thema1,.thema2,.thema3{
+        min-width: 180px;
+        min-height:180px;
+        border-radius: 200px;
+        background-color: #4A5FD9;
+        color: white;
+        font-size: 20px;
+        border: none;
+        
+    }
+    
+    .thema1:hover,.thema2:hover,.thema3:hover{
+        cursor: pointer;
+    } 
+    
+    .pagina3{
+        display: none;
+        /* display: flex; */
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    .sectionVraag{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center; 
+        font-size: 22px;
+        min-height: 10vh;
+        padding-top: 20px;
+        padding-right: 40px;
+        padding-left: 40px;
+        
+    
+    
+    }
+    
+    
+    .sectionVraagscherm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 20px;
+        min-height: 50vh;
+    
+    }
+    
+    
+    .listVraagscherm{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+        min-height: 55vh;
+        margin-left: 30px;
+       
+    }
+    
+    .teamnnaam2{
+        min-width: 33vh;
+    }
+    
+    .afbeelding{
+        min-width: 34vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       
+    }
+    
+    .fotoAfbeelding{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .liTimer{
+        min-width: 33vh;
+    
+    }
+    
+    .timer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    .sectionVraagscherm1{
+        min-height: 30vh;
+    
+    
+    }
+    
+    
+    .timer{
+    min-width: 100px;
+    min-height:100px;
+    border-radius: 200px;
+    background-color: red;
+    color: white;
+    font-size: 24px;
+    border: none;
+    }
+    
+    
+    
+    .listAntwoordAB{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 45px;
+        padding-bottom: 10px;
+    }
+    
+    .buttonA, .buttonB{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 330px;
+        min-height: 60px;
+        border-radius: 8px;
+        background-color: #4A5FD9;
+        color: white;
+        font-size: 25px;
+        border: none;
+    
+    }
+    
+    .buttonA:hover, .buttonB:hover{
+        cursor: pointer;
+    
+    }
+    
+    .listAntwoordCD{
+        list-style: none;
+        display: flex;
+        gap: 45px;
+       
+    }
+    
+    .buttonC, .buttonD{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 330px;
+        min-height: 60px;
+        border-radius: 8px;
+        background-color:#4A5FD9;
+        color: white;
+        font-size: 25px;
+        border: none;
+        
+    
+    }
+    
+    .buttonC:hover, .buttonD:hover{
+        cursor: pointer;
+    
+    }
+    
+    .pagina4{
+        min-height: 100vh;
+        min-width: 100vh;
+        overflow: hidden;
+      
+    }
+    
+    .headerEindscherm{
+        font-size: 30px;
+        margin-top: 40px;
+        margin-left: 90px;
+        
+        
+    
+    }
+   
+    .lijstEindscherm{
+        display: flex;
+        flex-direction: column; 
+        margin-left: 90px;
+        list-style: none;
+         
+    
+    }
+    .scoreboard{ 
+        margin-top: 50px;
+        font-size: 30px;
+        font-weight: bold;
+       
+    }
+    
+    .spelerPunten1{
+        font-size: 30px;
+    }
+    
+    .spelerPunten2{
+         font-size: 30px;}
+    
+    .spelerPunten3{
+        font-size: 30px;
+    }
+    
+    .containerButton{
+        margin-top: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+    }
+                    
+    .buttonEindscherm{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-width: 290px;
+        min-height: 60px;
+        border-radius: 8px;
+        background-color:#4A5FD9;
+        color: white;
+        font-size: 20px;
+        border: none;
+       
+    }
+    
+    .buttonEindscherm:hover{
+        cursor: pointer;
+    }
+    
+    .scoreEindscherm{
+        font-size: 30px;
+        
+    }
+    
+    .scoreEindschermLijst {
+        display: flex;
+        flex-direction: column; 
+        margin-top: 30px;
+        gap: 20px;
+       
+        
+    }
+    
+    .boxScore1{
+        list-style: none;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-right: 90px; 
+        margin-left: 90px;
+    
+    }
+    
+    .boxScore {
+        list-style: none;
+        border: 2px solid black;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-bottom: 5px;
+        margin-right: 90px; 
+        margin-left: 70px  
+       
+    }
+    
+    .boxScoreTekst{
+        margin-left: 20px  
+    }
 
+}
 
