@@ -343,29 +343,37 @@ function naamEnScoreOpslaan() {
 
     } 
 }
-   //functie die De top 3 spelers met de hoogste score tonen op het eindscherm
-function toonSpelers() {
+   // Functie om de namen en scores van spelers te tonen op het scoreboard
+   function toonSpelers() {
     // Haal de spelersarray op uit localStorage
     var spelers = JSON.parse(localStorage.getItem("spelers")) || [];
 
-    // Controleer of er genoeg items in de array staan (bijvoorbeeld 3 of meer)
-    if (spelers.length > 0) {
-        console.log("Spelers array:", spelers); // Log de array in de console
-        var eersteSpeler = spelers[0]; // Haal het eerste item uit de array
-        var tweedeSpeler = spelers[1]; // Haal het tweede item uit de array
-        var derdeSpeler = spelers[2]; // Haal het derde item uit de array
-
-        // Zorg ervoor dat we de namen weergeven
-        nummerNaam1.innerText = eersteSpeler.naam;
-        spelerPunten1.innerText = eersteSpeler.score;
-        nummerNaam2.innerText = tweedeSpeler.naam;
-        spelerPunten2.innerText = tweedeSpeler.score;
-        nummerNaam3.innerText = derdeSpeler.naam;
-        spelerPunten3.innerText = derdeSpeler.score;
+    // Vul de informatie in voor de eerste speler
+    if (spelers[0]) {
+        nummerNaam1.innerText = spelers[0].naam; // Zet de naam van de speler in het scorebord
+        spelerPunten1.innerText = spelers[0].score; // Zet de score van de speler in he
     } else {
-        console.log("Geen spelers beschikbaar in localStorage.");
+        nummerNaam1.innerText = "N.v.t."; // Geen speler beschikbaar
+        spelerPunten1.innerText = "-";
+    }
+
+    if (spelers[1]) {
+        nummerNaam2.innerText = spelers[1].naam; // Zet de naam van de speler in het scorebord
+        spelerPunten2.innerText = spelers[1].score; // Zet de score van de speler in he
+    } else {
+        nummerNaam2.innerText = "N.v.t."; // Geen speler beschikbaar
+        spelerPunten2.innerText = "-";
+    }
+
+    if (spelers[2]) {
+        nummerNaam3.innerText = spelers[2].naam; // Zet de naam van de speler in het scorebord
+        spelerPunten3.innerText = spelers[2].score; // Zet de score van de speler in he
+    } else {
+        nummerNaam3.innerText = "N.v.t."; // Geen speler beschikbaar
+        spelerPunten3.innerText = "-";
     }
 }
+
 
 // functie die alle vragen van een bepaald thema weergeven.
 function toonAlleVragen(vragen) {
